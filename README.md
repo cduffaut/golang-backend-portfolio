@@ -14,16 +14,16 @@ Ce repo regroupe des projets personnels et exercices techniques en Go, couvrant 
 
 | Projet | Description | Stack |
 |---|---|---|
-| [MovieReservationSystem](./MovieReservationSystem) | Système de réservation de films avec gestion des utilisateurs et des séances | Go, REST API, SQL |
-| [e-commerce-api](./e-commerce-api) | API e-commerce avec gestion produits, commandes et paiements | Go, REST API |
-| [calorie-tracker-app](./calorie-tracker-app) | Application de suivi nutritionnel avec authentification | Go, REST API |
-| [expense-tracker](./expense-tracker) | Suivi de dépenses avec catégorisation et rapports | Go, REST API |
-| [Port-Scanner-Go](./Port-Scanner-Go) | Scanner de ports réseau concurrent | Go, networking, CLI |
-| [go-restful-api](./go-restful-api) | API RESTful de base — structure et bonnes pratiques | Go |
-| [golang-mini-app](./golang-mini-app) | Mini-application Go de démonstration | Go |
-| [minimal-go-api](./minimal-go-api) | API minimaliste — focus sur la simplicité et la performance | Go |
-| [simple-server-golang](./simple-server-golang) | Serveur HTTP simple en Go pur | Go |
-| [simple-web-serv-golang](./simple-web-serv-golang) | Serveur web avec routing basique | Go |
+| [MovieReservationSystem](https://github.com/cduffaut/MovieReservationSystem) | Système de réservation de films avec gestion des utilisateurs et des séances | Go, REST API, SQL |
+| [e-commerce-api](https://github.com/cduffaut/e-commerce-api) | API e-commerce avec gestion produits, commandes et paiements | Go, REST API |
+| [calorie-tracker-app](https://github.com/cduffaut/calorie-tracker-app) | Application de suivi nutritionnel avec authentification | Go, REST API |
+| [expense-tracker](https://github.com/cduffaut/expense-tracker) | Suivi de dépenses avec catégorisation et rapports | Go, REST API |
+| [Port-Scanner-Go](https://github.com/cduffaut/Port-Scanner-Go) | Scanner de ports réseau concurrent | Go, networking, CLI |
+| [go-restful-api](https://github.com/cduffaut/go-restful-api) | API RESTful de base — structure et bonnes pratiques | Go |
+| [golang-mini-app](https://github.com/cduffaut/golang-mini-app) | Mini-application Go de démonstration | Go |
+| [minimal-go-api](https://github.com/cduffaut/minimal-go-api) | API minimaliste — focus sur la simplicité et la performance | Go |
+| [simple-server-golang](https://github.com/cduffaut/simple-server-golang) | Serveur HTTP simple en Go pur | Go |
+| [simple-web-serv-golang](https://github.com/cduffaut/simple-web-serv-golang) | Serveur web avec routing basique | Go |
 
 ---
 
