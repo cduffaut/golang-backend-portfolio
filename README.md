@@ -4,9 +4,9 @@
 
 Ce repo regroupe des projets personnels et exercices techniques en Go, couvrant les domaines:
 
-- **APIs REST** — conception, structuration, authentification, documentation
-- **Backend full-stack** — intégration avec bases de données, gestion de sessions, logique métier
-- **DevOps / Infra Go** — outils CLI, automatisation, outillage réseau
+- **APIs REST**: conception, structuration, authentification, documentation
+- **Backend full-stack**: intégration avec bases de données, gestion de sessions, logique métier
+- **DevOps / Infra Go**: outils CLI, automatisation, outillage réseau
 
 ---
 
